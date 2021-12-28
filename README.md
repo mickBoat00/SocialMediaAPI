@@ -2,8 +2,8 @@
 Social Media API using REST API in NodeJS
 
 In this API, i performed the following funtionalities
-Register User without JWT Authentication
-Login User 
+-Register User without JWT Authentication
+-Login User 
 Update a user
 Delete a user
 Follow a user
